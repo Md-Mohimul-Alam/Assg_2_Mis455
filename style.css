@@ -1,0 +1,59 @@
+ul {
+    display: flex;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: rgb(215, 240, 157);
+  }
+  
+  li a {
+    font-size: 16px;
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(14, 69, 90);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(156, 145, 96);
+    
+    border-radius: 10px;
+  }
+
+  #logo{
+    width: 15%;
+    margin-right: 600px;
+  }
+  .home{
+    color: rgb(33, 78, 96);
+    font-size: 30px;
+    display: flex;
+    background-color: rgb(227, 240, 236);
+  }
+  .bedford{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 150px;
+    margin-left: 100px;
+    margin-right: 50px;
+  }
+  .manali img{
+    margin-top: 150px;
+  }
+  .manali{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    margin-bottom: 300px;
+  }
+  .mountain img{
+    margin-top: 150px;
+    width: 52%;
+  }
+  .mountain{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    margin-bottom: 300px;
+  }
